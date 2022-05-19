@@ -15,6 +15,7 @@ All the commands have the form of
 java gitlet.Main [command]
 ```
 To run the program, make sure to run `java gitlet.Main init` first.
+
 Here's a list of all the commands:
 ```
 init
